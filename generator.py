@@ -8,7 +8,7 @@ python_file = open('my_first_calculator.py', 'w')
 min_num = 0
 max_num = 50
 nums = range(min_num, max_num+1)
-signs = ['+', '-', '/', '*']
+signs = ['+', '-', '/', '*'] #test
 num_of_ifs = len(signs)*(max_num-min_num+1)**2
 
 print("""# my_first_calculator.py by AceLewis

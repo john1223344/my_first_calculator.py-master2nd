@@ -1,5 +1,5 @@
 from decimal import Decimal as d
-import decimal #3:51 pm
+import decimal #4:03 pm
 # Generator used to create my_first_calculator
 
 # Open a file that we can write to
